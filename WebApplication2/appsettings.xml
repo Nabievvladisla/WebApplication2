@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<Companies>
+		<Microsoft>
+			<Employees>140000</Employees>
+		</Microsoft>
+		<Apple>
+			<Employees>150000</Employees>
+		</Apple>
+		<Google>
+			<Employees>130000</Employees>
+		</Google>
+	</Companies>
+</configuration>
